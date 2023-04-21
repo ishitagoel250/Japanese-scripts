@@ -1,0 +1,78 @@
+.heading {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+}
+.header {
+    margin: 0 8.5% 0 8.5%;
+    background-image: url("phone-wallpaper-6153384_1920.jpg");
+    border-radius: 15px;
+    border: 2px solid #D14D72;
+}
+.header2 {
+    margin: 0 40% 2.25% 0;
+    border-radius: 15px;
+}
+.header-japan {
+    font-family: 'Noto Serif JP', serif;
+    margin: 1.5% 0 0 3%;
+}
+.subheading {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 55px;
+    margin: 2%;
+}
+.script {
+    background-color: #FEF2F4;
+    height: 175px;
+    margin: 2.5%;
+    border: 2px solid #D14D72;
+    border-radius: 15px 50px;
+}
+.subscripts1 {
+    margin:25% auto 0 auto;
+    font-family: 'Noto Serif JP', serif;
+}
+.subscripts2 {
+    font-family: 'Noto Serif JP', serif;
+}
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: #D14D72;
+}
+.header3 {
+    margin: 0 5% 0 0;
+}
+.script-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 3%
+}
+.kanji-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 3%
+}
+td {
+    text-align: center;
+    padding: 27px;
+    font-size: 32px;
+}
+th {
+    text-align: center;
+    padding: 27px;
+    font-size: 32px;
+    font-family: 'Noto Serif JP', serif;
+}
+.kanji-table1 {
+    display: inline-block;
+    margin: 3% 2.5% 0 12%; 
+}
+.kanji-table2 {
+    display: inline-block;
+    margin: 3% 13% 0 2.5%; 
+}
